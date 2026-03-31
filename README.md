@@ -1,7 +1,1 @@
-#include<iostream>
-using namespace std;
-
-int main() {
-    cout << "Hello World";
-    return 0;
-}
+This is my first repository
